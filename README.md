@@ -3,10 +3,10 @@
 > seu futuro , nossa tecnologia.
 
 ## Sobre a Empresa
-oferecer suluções tecnológia inteligentes, acessíveis e inovadoras, ajudando empresas e pessoas a transformar desafios em oportunidades e alcançar resultados
+oferecer suluções tecnológicas inteligentes, acessíveis e inovadoras, ajudando empresas e pessoas a transformar desafios em oportunidades e alcançar resultados
 
 ## Localização
-- **Endereço:** Rua vilovaldo nascimento n°1532
+- **Endereço:** Rua Vilovaldo Nascimento n°1532
 - **Local:** Centro, Piripiri, PI - CEP 64260-000
 
 ## Equipe
