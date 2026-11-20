@@ -33,7 +33,7 @@ export const empresa = {
   publicoAlvo:
     "Pequenas e médias empresa, empreendedores e profissionais autônomos que buscam utilizar a tecnologia para melhorar seus negócios ,aumentar a produtividade e fortalecer sua presença digital",
   contato: {
-    email: "contato@RYCASolution.com.br",
+    email: "contato@rycasolutionolution.com.br",
     telefone: "(86) 998776344",
     endereco: {
       logradouro: "Rua Vilovaldo Nascimento, n°1532",
@@ -47,21 +47,21 @@ export const empresa = {
     {
       nome: "Carine Silva",
       cargo: "CEO (Diretor Executivo)",
-      foto: "/images/Carine Silva.jpg",
+      foto: "/images/Carine Silva.jpeg",
       alt: "Foto Carine Silva",
       descricao: "Responsável por liderar a empresa, tomar decisões estratégicas e definir metas para seu crescimento."
     },
     {
       nome: "Ryanna Alves",
       cargo: "Desenvolvedora de Software",
-      foto: "/images/Ryanna Alves.jpg",
+      foto: "/images/Ryanna Alves.jpeg",
       alt: "Foto de Ryanna Alves",
       descricao: "Responsável por criar, desenvolver e manter sistemas, sites e aplicativos."
     },
     {
       nome: "Alexander Montenegro",
       cargo: " Analista de Marketing",
-      foto: "/images/Alexander.jpg",
+      foto: "/images/Alexander.jpeg",
       alt: "Foto de Alexander Montenegro",
       descricao: "Responsável por planejar estratégias de divulgação, fortalecer a marca e atrair novos clientes."
     }
